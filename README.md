@@ -1,7 +1,14 @@
 # Corporacion Favorita grocery sales forecasting 
 ___
 Feature engineering and forecasting modeling for the Kaggle competition.
-Algorithms used: Gradient Boosting, LSTM Recurrent Neural Network, Random Forest, Extra Trees Regression, Ridge Regression.
+
+Algorithms used: 
+* Gradient Boosting
+* LSTM Recurrent Neural Network
+* Random Forest 
+* Extra Trees Regression 
+* Ridge Regression.
+
 Model blending is used to acheive the best accuracy.
 
 
